@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/master/GIFs/Gaming.gif" width="200" />
-</p>
-
 <h1 align="center">Hi, I'm Alex!</h1>
 <p align="center">
   <strong>Student Games Developer @ University of Brighton</strong><br>
