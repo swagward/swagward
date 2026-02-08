@@ -22,12 +22,21 @@ I’m a gameplay-focused developer who loves bringing ambitious ideas to life. W
 | **Design/Ops** | ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender) ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) |
 
 ---
-
-### Deployment Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagward&show_icons=true&theme=retro&hide_border=true" alt="Stats" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swagward&show_icons=true&theme=tokyonight" alt="Main Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swagward&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=swagward&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### Let's Connect
