@@ -1,14 +1,23 @@
-# Hi, I'm Alex! 
-### Student Games Developer @ University of Brighton
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/master/GIFs/Gaming.gif" width="200" />
+</p>
+
+<h1 align="center">Hi, I'm Alex!</h1>
+<p align="center">
+  <strong>Student Games Developer @ University of Brighton</strong><br>
+</p>
+
+<p align="center">
+  <a href="https://swagward.github.io/">
+    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### The Current Level
-I’m a gameplay-focused developer who loves bringing ambitious ideas to life. While I'm a **Unity** specialist, I enjoy diving into the "how it works" side of networking and engine architecture.
-
-- **Dissertation Project:** Developing a multiplayer party-game framework where friends compete in various minigames.
-- **Proudest Achievement:** **Swagaria Multiplayer**. I built a custom C++ client for rendering/input that communicates with a dedicated Java server for world-state management.
-- **Portfolio:** [swagward.github.io](https://swagward.github.io/)
+- **Dissertation Project:** Developing a multiplayer party-game where friends compete in various minigames.
+- **Proudest Achievement:** **Swagaria Multiplayer**. A custom C++ client for rendering/input communicating with a dedicated Java server for world-state management.
 
 ---
 
@@ -23,25 +32,31 @@ I’m a gameplay-focused developer who loves bringing ambitious ideas to life. W
 
 ---
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swagward&show_icons=true&theme=tokyonight" alt="Main Stats" />
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swagward&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swagward&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swagward&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=swagward&theme=tokyonight" alt="GitHub Streak" />
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=swagward&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 ---
 
-### Let's Connect
-[![Website](https://img.shields.io/badge/Portfolio-swagward.github.io-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://swagward.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-@realswagward-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realswagward/)
-![Discord](https://img.shields.io/badge/Discord-swagward-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+  <a href="https://swagward.github.io/" target="blank">
+    <img src="https://img.shields.io/badge/Website-swagward.github.io-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.instagram.com/realswagward/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-@realswagward-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-swagward-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
