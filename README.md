@@ -11,8 +11,6 @@
 
 ---
 
-### The Current Level
-- **Dissertation Project:** Developing a multiplayer party-game where friends compete in various minigames.
 - **Proudest Achievement:** **Swagaria Multiplayer**. A custom C++ client for rendering/input communicating with a dedicated Java server for world-state management.
 
 ---
