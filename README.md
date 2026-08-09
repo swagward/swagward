@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alex!</h1>
 <p align="center">
-  <strong>Student Games Developer @ University of Brighton</strong><br>
+  <strong>Graduate Software Developer</strong><br>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 ### My Toolbox
-**I prefer high-level creativity, but I'm not afraid of the low-level grind.**
+**Comfortable across the stack | Engine tooling and gameplay code, down to raw C++ and networking whenever it calls for it.**
 
 | Category | Tools |
 | :--- | :--- |
